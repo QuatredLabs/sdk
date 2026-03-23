@@ -4,7 +4,7 @@
 
 Quatred is a next-generation blockchain infrastructure platform focused on building scalable, secure, and decentralized foundations for the future of Web3. Designed to empower developers, protocols, and digital economies, Quatred pushes the boundaries of what blockchain infrastructure can achieve.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : GsBG1baNhAMTEtqbAHsQF66mA3XAEVDPn8M97i97pump
 ---
 
 ## 🌐 Links
